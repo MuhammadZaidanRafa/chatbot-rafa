@@ -15,10 +15,10 @@ print("Type 'exit' to exit.")
 print("=" * 40)
 
 while True:
-    user = input("Anda : ").strip().lower()
+    user = input("You : ").strip().lower()
 
     if user == "exit":
-        print("Bot  : Sampai jumpa!")
+        print("Bot  : Bye!")
         break
 
     reply = default_reply
