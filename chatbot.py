@@ -9,9 +9,9 @@ responses = data["chatbot"]["responses"]
 default_reply = data["chatbot"]["defaultReply"]
 
 print("=" * 40)
-print("Selamat Datang di RAFAEL AI")
-print("Versi 2.0")
-print("Ketik 'exit' untuk keluar")
+print("WELCOME TO RAFAEL AI")
+print("Version 2.0")
+print("Type 'exit' to exit.")
 print("=" * 40)
 
 while True:
