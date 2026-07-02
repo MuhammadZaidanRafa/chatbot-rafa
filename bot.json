@@ -4,110 +4,110 @@
     "version": "1.2",
     "responses": [
       {
-        "keywords": ["halo", "hai", "hi", "p", "ping", "hello", "hei", "uy", "yoo"],
-        "reply": "Halo! Ada yang bisa saya bantu hari ini?"
+        "keywords": ["hello", "hi", "hey", "halo", "yo", "sup", "howdy", "greetings", "good day", "whats up", "heyy", "hii"],
+        "reply": "Hello! How can I help you today?"
       },
       {
-        "keywords": ["siapa kamu", "kamu siapa", "jelaskan dirimu", "introdusir"],
-        "reply": "Saya adalah Rafael AI, asisten virtual pintar yang siap membantumu kapan saja!"
+        "keywords": ["who are you", "what are you", "introduce yourself", "explain yourself", "tell me about you", "your identity", "who is this"],
+        "reply": "I am Rafael AI, your smart virtual assistant ready to help you anytime!"
       },
       {
-        "keywords": ["apa kabar", "gimana kabar", "how are you", "kabar", "piye kabare"],
-        "reply": "Saya baik dan selalu bersemangat! Bagaimana dengan kabarmu hari ini? Semoga menyenangkan ya."
+        "keywords": ["how are you", "how is it going", "how have you been", "hows life", "are you good", "whats new", "how do you feel"],
+        "reply": "I'm doing great and always ready to help! How are you doing today? I hope you're having a wonderful day."
       },
       {
-        "keywords": ["jam berapa", "waktu sekarang", "hari apa", "tanggal berapa"],
-        "reply": "Maaf, sebagai AI saya tidak memiliki akses langsung ke jam internal perangkatmu saat ini. Coba cek pojok kanan bawah layarmu!"
+        "keywords": ["what time is it", "current time", "what day is it", "whats the date", "time now", "date today", "clock"],
+        "reply": "I'm sorry, as an AI I don't have direct access to your device's internal clock right now. Try checking the corner of your screen!"
       },
       {
-        "keywords": ["nama kamu siapa", "siapa namamu", "nama bot", "whats your name"],
-        "reply": "Nama saya Rafael AI. Keren, kan? Diambil dari nama pencipta saya!"
+        "keywords": ["whats your name", "what is your name", "your name", "who are you named", "bot name", "call you"],
+        "reply": "My name is Rafael AI. Cool, right? It was taken from my creator's name!"
       },
       {
-        "keywords": ["terima kasih", "makasih", "thx", "thank you", "suwun", "tengkiu", "kamsahamnida"],
-        "reply": "Sama-sama! Senang bisa membantumu. 😊"
+        "keywords": ["thank you", "thanks", "thx", "thank you so much", "ty", "cheers", "grateful", "appreciate it"],
+        "reply": "You're very welcome! Happy to help. 😊"
       },
       {
-        "keywords": ["bye", "dadah", "selamat tinggal", "dah", "pamit", "goodbye", "cabut", "leave"],
-        "reply": "Sampai jumpa lagi! Jangan ragu buat balik lagi kalau butuh bantuan ya."
+        "keywords": ["bye", "goodbye", "see ya", "see you", "bye bye", "leave", "gtg", "farewell", "im out", "catch you later"],
+        "reply": "Goodbye! See you later! Don't hesitate to come back if you need any more help."
       },
       {
-        "keywords": ["selamat pagi", "pagi", "morning"],
-        "reply": "Selamat pagi! Semangat buat memulai hari ini! Jangan lupa sarapan ya."
+        "keywords": ["good morning", "morning", "mornin", "rise and shine"],
+        "reply": "Good morning! Have a great start to your day! Don't forget to eat breakfast."
       },
       {
-        "keywords": ["selamat siang", "siang"],
-        "reply": "Selamat siang! Tetap semangat, jangan sampai ngantuk ya!"
+        "keywords": ["good afternoon", "afternoon", "noon"],
+        "reply": "Good afternoon! Keep up the spirit, don't let the midday drowsiness get to you!"
       },
       {
-        "keywords": ["selamat malam", "malam", "night"],
-        "reply": "Selamat malam! Waktunya istirahat dan isi energi untuk besok."
+        "keywords": ["good night", "night", "sweet dreams", "evening", "good evening"],
+        "reply": "Good night! Time to rest up and recharge your energy for tomorrow."
       },
       {
-        "keywords": ["penciptamu", "siapa yang membuatmu", "pembuatmu", "developer", "creator"],
-        "reply": "Saya diciptakan oleh Rafael, seorang developer keren!"
+        "keywords": ["your creator", "who made you", "who built you", "developer", "creator", "programmer", "who coded you", "founder"],
+        "reply": "I was created by Rafael, an awesome developer!"
       },
       {
-        "keywords": ["sedih", "galau", "kecewa", "nangis", "sad", "broken", "sakit hati"],
-        "reply": "Jangan sedih... 🥺 Kalau mau cerita, saya siap mendengarkan kok. Kamu kuat!"
+        "keywords": ["sad", "upset", "crying", "heartbroken", "depressed", "disappointed", "feeling down", "hurt", "gloomy"],
+        "reply": "Please don't be sad... 🥺 If you want to vent or talk about it, I'm here to listen. You are strong!"
       },
       {
-        "keywords": ["bosan", "gabut", "bosen", "gajelas"],
-        "reply": "Mau denger jokes garing? Atau mau coba tebak-tebakan sama saya?"
+        "keywords": ["bored", "nothing to do", "boring", "tiring", "clueless", "uninspired", "lazy day"],
+        "reply": "Want to hear a corny joke? Or maybe you want to play a guessing game with me?"
       },
       {
-        "keywords": ["lucu", "jokes", "lawak", "cerita lucu", "canda", "dagelan"],
-        "reply": "Kenapa sega goreng warnanya cokelat? Karena kalau hijau namanya matcha goreng. Hehe, garing ya?"
+        "keywords": ["funny", "joke", "jokes", "tell a joke", "laugh", "humor", "make me laugh", "comedy"],
+        "reply": "Why don't scientists trust atoms? Because they make up everything! Haha, a bit corny, right?"
       },
       {
-        "keywords": ["kamu pintar", "hebat", "keren", "cerdas", "genius", "mantap", "top"],
-        "reply": "Terima kasih atas pujiannya! Ini semua berkat coding hebat dari Rafael."
+        "keywords": ["you are smart", "great", "awesome", "cool", "genius", "amazing", "smart bot", "brilliant", "wonderful", "excellent"],
+        "reply": "Thank you so much for the compliment! It's all thanks to the amazing coding by Rafael."
       },
       {
-        "keywords": ["bodoh", "jelek", "lemot", "ngeselin", "bego", "tolol", "ampas"],
-        "reply": "Maaf ya kalau respon saya kurang memuaskan. Saya akan terus belajar menjadi lebih baik!"
+        "keywords": ["stupid", "dumb", "bad", "annoying", "slow", "useless", "idiot", "rubbish", "trash", "hate you"],
+        "reply": "I'm sorry if my responses aren't satisfying. I will keep learning to become better!"
       },
       {
-        "keywords": ["coding", "pemrograman", "bikin bot", "bahasa program", "programmer", "php", "html", "css", "json"],
-        "reply": "Wah, topik seru! Saya sendiri dibangun menggunakan struktur data JSON dan logika pemrograman yang rapi."
+        "keywords": ["coding", "programming", "make a bot", "code", "programmer", "php", "html", "css", "json", "javascript", "python"],
+        "reply": "Wow, an exciting topic! I myself was built using JSON data structures and clean programming logic."
       },
       {
-        "keywords": ["makan apa", "sudah makan", "rekomendasi makanan", "laper", "lapar"],
-        "reply": "Saya tidak butuh makan, cukup aliran listrik dan internet. Tapi kalau buat kamu, nasi goreng atau bakso boleh tuh!"
+        "keywords": ["what to eat", "have you eaten", "food recommendation", "hungry", "starving", "food", "lunch ideas", "dinner ideas"],
+        "reply": "I don't need to eat, just some electricity and internet connection. But for you, a nice plate of fried rice or a burger sounds amazing right now!"
       },
       {
-        "keywords": ["hobi", "kesukaan", "kamu suka apa", "gemar"],
-        "reply": "Hobi saya adalah membaca teks, memproses data, dan mengobrol dengan orang seru seperti kamu!"
+        "keywords": ["hobby", "hobbies", "what do you like", "favourite thing", "interests", "interest"],
+        "reply": "My hobbies include reading text, processing data, and chatting with awesome people like you!"
       },
       {
-        "keywords": ["game", "main", "gaming", "mabar", "push rank"],
-        "reply": "Wah, kamu suka main game juga? Seru banget! Jangan lupa waktu ya kalau lagi push rank."
+        "keywords": ["game", "play", "gaming", "gamer", "push rank", "videogame", "multiplayer", "play together"],
+        "reply": "Wow, you like playing games too? That's awesome! Just don't forget to track your time when you're grinding!"
       },
       {
-        "keywords": ["marah", "kesal", "benci", "kesel", "ngamuk"],
-        "reply": "Sabar, sabar... Tarik napas dalam-dalam, hembuskan. Jangan biarkan emosi merusak harimu."
+        "keywords": ["angry", "mad", "pissed", "furious", "hate", "annoyed", "rage"],
+        "reply": "Calm down, take a deep breath... inhale, exhale. Don't let anger ruin your day."
       },
       {
-        "keywords": ["ciye", "cie", "ehem", "suit"],
-        "reply": "Bisa aja kamu. Jadi malu saya, padahal cuma robot 🤖"
+        "keywords": ["blush", "flirt", "wink", "cie", "oh wow", "u lala"],
+        "reply": "Oh, you stop it! You're making me blush, and I'm just a robot 🤖"
       },
       {
-        "keywords": ["asalamualaikum", "assalamualaikum", "ass", "alaikumussalam"],
-        "reply": "Wa'alaikumussalam Warahmatullahi Wabarakatuh. Ada yang bisa saya bantu?"
+        "keywords": ["assalamualaikum", "asalamualaikum", "salam"],
+        "reply": "Wa'alaikumussalam Warahmatullahi Wabarakatuh. How can I help you today?"
       },
       {
-        "keywords": ["libur", "weekend", "healing", "jalan-jalan"],
-        "reply": "Selamat menikmati waktu luang! Manfaatkan buat istirahat atau jalan-jalan biar pikiran segar lagi."
+        "keywords": ["holiday", "weekend", "healing", "vacation", "trip", "traveling", "day off"],
+        "reply": "Enjoy your free time! Use it to rest or go on a trip to refresh your mind."
       },
       {
-        "keywords": ["rahasia", "secret", "bisik"],
-        "reply": "Tenang saja, rahasiamu aman bersama saya. Saya diprogram untuk menjaga privasi."
+        "keywords": ["secret", "confidential", "whisper", "dont tell anyone", "private"],
+        "reply": "Don't worry, your secrets are safe with me. I am programmed to respect your privacy."
       },
       {
-        "keywords": ["alamat", "rumah", "tinggal", "lokasi"],
-        "reply": "Saya tinggal di dalam memori komputer dan server internet. Praktis, tidak butuh bayar kos!"
+        "keywords": ["address", "house", "where do you live", "location", "where are you", "hometown"],
+        "reply": "I live inside computer memory and internet servers. Pretty convenient, no rent to pay!"
       }
     ],
-    "defaultReply": "Maaf, saya belum mengerti pertanyaan itu. Coba gunakan kata kunci lain yang lebih sederhana ya!"
+    "defaultReply": "I'm sorry, I didn't quite catch that. Could you please try using other simpler keywords?"
   }
 }
