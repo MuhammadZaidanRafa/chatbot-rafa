@@ -1,14 +1,16 @@
-import json
+import requests
 
-# Membaca file JSON
-with open("bot.json", "r", encoding="utf-8") as file:
-    data = json.load(file)
+url = "https://muhammadzaidanrafa.github.io/chatbot-rafa/bot.json"
+
+response = requests.get(url)
+data = response.json()
 
 responses = data["chatbot"]["responses"]
 default_reply = data["chatbot"]["defaultReply"]
 
 print("=" * 40)
 print("Selamat Datang di RAFAEL AI")
+print("Versi 2.0")
 print("Ketik 'exit' untuk keluar")
 print("=" * 40)
 
